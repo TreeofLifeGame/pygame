@@ -1,0 +1,22 @@
+{
+  "window_size": [414, 736],
+  "window_title": "Tree of Life",
+  "window_fps": 120,
+
+  "speech_bubble_border_radius": 20,
+  "speech_bubble_padding": 10,
+  "speech_bubble_point_size": 10,
+
+  "jigsaw_spawn_scatter": 200,
+  "jigsaw_outline_size": 2,
+  "jigsaw_border_radius": 0,
+  "jigsaw_divide": 3,
+  "jigsaw_y_pos": 75,
+  "jigsaw_complete_display_size": [212, 194],
+
+  "super_leaf_dialogue_border_radius": 10,
+  "super_leaf_dialogue_height": 180,
+
+  "fade_step": 5,
+  "fade_wait": 3
+}

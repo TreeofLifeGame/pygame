@@ -1,0 +1,57 @@
+{
+  "egg0": "img/egg.png",
+
+  "lines0": "img/lines.png",
+
+  "sparkles0": "img/sparkles0.png",
+  "sparkles1": "img/sparkles1.png",
+  "sparkles2": "img/sparkles2.png",
+
+  "character": [
+    "img/character0.png",
+    "img/character1.png",
+    "img/character2.png",
+    "img/character3.png",
+    "img/character4.png",
+    "img/character5.png"
+  ],
+
+  "dead_plant0": "img/dead_plant0.png",
+  "dead_plant1": "img/dead_plant1.png",
+
+  "jigsaw": "img/family.png",
+
+  "danger0": "img/danger_icon.png",
+
+  "next0": "img/next.png",
+
+  "decompose0": "img/decompose0.png",
+
+  "flower" : [
+    "img/flower0.png",
+    "img/flower1.png",
+    "img/flower2.png",
+    "img/flower3.png",
+    "img/flower4.png"
+  ],
+
+  "volume_off": "img/volume0.png",
+  "volume_on": "img/volume1.png",
+
+  "menu": "img/menu.png",
+  "back": "img/back.png",
+
+  "collect_reward": "img/collect.png",
+
+  "tap_on_object": "img/tap_on_object.png",
+  "drag_object": "img/drag_object.png",
+  "collect_your_reward": "img/collect_reward.png",
+  "tap_next": "img/tap_next.png",
+  "tap_white": "img/tap_white.png",
+  "drag_down": "img/drag_object_down.png",
+
+  "sign_up": "img/sign_up.png",
+  "log_in": "img/log_in.png",
+  "about": "img/about.png",
+  "return_to_game": "img/return_to_game.png"
+}

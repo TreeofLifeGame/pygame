@@ -1,0 +1,27 @@
+{
+  "main_bg": "#b2d1c6",
+  "white_bg": "#fdfff8",
+
+  "speech_bubble_bg": "#eef2e2",
+
+  "main_font": "#0f1431",
+  "super_leaf_dialogue_font": "#0d4c55",
+  "point_count_font": "#1e6670",
+
+  "point_count_bg": [252, 245, 220, 149],
+
+  "jigsaw_outline": "#3b6254",
+  "jigsaw_grid_outline": "#71aa96",
+  "jigsaw_grid_bg": "#8dbbab",
+  "jigsaw_bg_alpha": 100,
+
+  "super_leaf_dialogue": [255, 234, 158, 115],
+
+  "textbox_bg": "#fdfff8",
+  "textbox_text": "#051431",
+  "textbox_placeholder": "#7b8390",
+
+  "dirt": "#330808",
+
+  "fade_color": "#b2d1c6"
+}
